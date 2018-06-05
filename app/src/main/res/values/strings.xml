@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pruebatecnica</string>
+
+    <string name="url">http://clinket.apptitud.com.co/es/api</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="registro">Registro</string>
+    <string name="terminos">Al continuar usted esta aceptando los  <b>Términos y condiciones</b> y la <b>Politica de tratamiento de datos</b> de CITAPP</string>
+</resources>
